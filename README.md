@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-## Hi there 👋
+<h1 align="center"><b>Hi, I´m Jesus Emmanuel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+## <picture><img src = "" width = 50px></picture> About me
 
 <!--
 **D0JYAN/D0JYAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
