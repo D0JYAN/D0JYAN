@@ -3,7 +3,7 @@
 
 ## <picture><img src = "https://github.com/D0JYAN/D0JYAN/blob/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/D0JYAN/D0JYAN/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/D0JYAN/D0JYAN/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <!--
 **D0JYAN/D0JYAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
