@@ -16,8 +16,8 @@
 ## <picture> <img src = "https://github.com/D0JYAN/D0JYAN/blob/main/Img/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <div style="display: flex; justify-content: space-around;">
-  <img alt="Tus GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=D0JYAN&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Tus Lenguajes Más Usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0JYAN&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="100px"/>
+  <img alt="Tus GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=D0JYAN&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+  <img alt="Tus Lenguajes Más Usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0JYAN&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
 </div>
 
 
