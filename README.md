@@ -6,8 +6,6 @@
 <br><br>
 - :school: I am a `student` at [Universidad Tecnológica del Sureste de Veracruz](http://www.utsv.mx/).
 - :trophy: Silver medal in the INFOMATRIX competition.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Web Development`, `3D design in Blender` and `Mobile Development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
