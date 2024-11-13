@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  width="900"/>
 </div>
 
 ###
@@ -9,16 +9,23 @@
 ###
 
 <div align="left">
-  <img height="75" src="https://github.com/D0JYAN/D0JYAN/blob/main/Img/about_me.gif?raw=true"  />
+  <img height="75" src="https://github.com/D0JYAN/D0JYAN/blob/main/Img/about_me.gif?raw=true" />About Me
 </div>
 
 ###
 
-<p align="left">Hello World!!</p>
+<br><br>
+- :school: I am a `student` at [Universidad Tecnológica del Sureste de Veracruz](http://www.utsv.mx/).
+- :trophy: Silver medal in the INFOMATRIX competition.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Web Development`, `3D design in Blender` and `Mobile Development`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`.
 
 ###
 
-<img align="left" height="75" src="https://github.com/D0JYAN/D0JYAN/blob/main/Img/Statistics.gif?raw=true"  />
+<img align="left" height="75" src="https://github.com/D0JYAN/D0JYAN/blob/main/Img/Statistics.gif?raw=true"  />Statistics
 
 ###
 
