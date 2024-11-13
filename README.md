@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  width="900"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  width="900"/>
 </div>
 
 ###
@@ -9,7 +9,7 @@
 ###
 
 <div align="left">
-  <img height="75" src="https://github.com/D0JYAN/D0JYAN/blob/main/Img/about_me.gif?raw=true" />About Me
+  <img height="75" src="https://github.com/D0JYAN/D0JYAN/blob/main/Img/about_me.gif?raw=true" /><h4>About Me</h4>
 </div>
 
 ###
@@ -25,7 +25,7 @@
 
 ###
 
-<img align="left" height="75" src="https://github.com/D0JYAN/D0JYAN/blob/main/Img/Statistics.gif?raw=true"  />Statistics
+<img align="left" height="75" src="https://github.com/D0JYAN/D0JYAN/blob/main/Img/Statistics.gif?raw=true"  /><h4>Statistics</h4>
 
 ###
 
@@ -37,6 +37,8 @@
 </div>
 
 ###
+
+<h4>Techs</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -71,6 +73,8 @@
 </div>
 
 ###
+
+<h4>Social Media</h4>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
