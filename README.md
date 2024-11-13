@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  width="100%"/>
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 </div>
 
 ###
@@ -76,11 +76,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/D0JYAN/D0JYAN/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=D0JYAN" alt="Layout with last medium posts"  />
-</div>
 
 ###
