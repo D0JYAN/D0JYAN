@@ -25,7 +25,9 @@
 
 ###
 
-<img align="left" height="75" src="https://github.com/D0JYAN/D0JYAN/blob/main/Img/Statistics.gif?raw=true"  /><h3>Statistics</h3>
+<div align="left">
+  <img height="75" src="https://github.com/D0JYAN/D0JYAN/blob/main/Img/Statistics.gif?raw=true"  /><h3>Statistics</h3>
+</div>
 
 ###
 
