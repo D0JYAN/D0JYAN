@@ -79,7 +79,7 @@
 ###
 
 <div aling="left">
-  <img height="75" src="[https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif](https://private-user-images.githubusercontent.com/74038190/240904074-324065af-8ea3-453a-83a3-66ccba5797fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIwODI2NjUsIm5iZiI6MTczMjA4MjM2NSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDQwNzQtMzI0MDY1YWYtOGVhMy00NTNhLTgzYTMtNjZjY2JhNTc5N2ZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTIwVDA1NTkyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0MGUwNTAyMWYyZjdkMWNmYmE1N2VlZGE4MDZiMDc3NDkyNTBiNGJjMzczNGU5Y2ViYjZmZTAwNjUxMzk2NWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SI3CiUo-c7CJ_lVaVCrVpM7HpbgmbxIvOL5_bM0zdW8)" /><h3>Social Media</h3>
+  <img height="75" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" /><h3>Social Media</h3>
 </div>
 
 <div align="left">
